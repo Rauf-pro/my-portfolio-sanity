@@ -1,5 +1,5 @@
 {
-  "root": true,
+  "root": false,
   "project": {
     "name": "dev_portfolio"
   },
